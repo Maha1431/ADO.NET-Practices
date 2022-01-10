@@ -1,0 +1,20 @@
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\bin\Debug\netcoreapp3.1\ADO.NET Practice.exe
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\bin\Debug\netcoreapp3.1\ADO.NET Practice.deps.json
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\bin\Debug\netcoreapp3.1\ADO.NET Practice.runtimeconfig.json
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\bin\Debug\netcoreapp3.1\ADO.NET Practice.runtimeconfig.dev.json
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\bin\Debug\netcoreapp3.1\ADO.NET Practice.dll
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\bin\Debug\netcoreapp3.1\ADO.NET Practice.pdb
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\obj\Debug\netcoreapp3.1\ADO.NET Practice.csproj.AssemblyReference.cache
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\obj\Debug\netcoreapp3.1\ADO.NET Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\obj\Debug\netcoreapp3.1\ADO.NET Practice.AssemblyInfoInputs.cache
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\obj\Debug\netcoreapp3.1\ADO.NET Practice.AssemblyInfo.cs
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\obj\Debug\netcoreapp3.1\ADO.NET Practice.csproj.CoreCompileInputs.cache
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\obj\Debug\netcoreapp3.1\ADO.NET Practice.dll
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\obj\Debug\netcoreapp3.1\ADO.NET Practice.pdb
+C:\Users\CSC\source\repos\ADO.NET Practice\ADO.NET Practice\obj\Debug\netcoreapp3.1\ADO.NET Practice.genruntimeconfig.cache
